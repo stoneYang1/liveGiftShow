@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="gift_holder_id" />
+    <item type="id" name="gift_out_animator_id" />
+
+</resources>
