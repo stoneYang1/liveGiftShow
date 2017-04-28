@@ -25,4 +25,4 @@
     
 * 注意：转载请说明出处
 
-![](https://github.com/stoneYang1/liveGiftShow/master/sample.gif "示例图")
+![](https://github.com/stoneYang1/liveGiftShow/blob/master/sample.gif "示例图")
